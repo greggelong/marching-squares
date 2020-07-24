@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: lightblue;
+  text-align: center;
+  
+}
+p {
+ color:blue; 
+}
+  
+canvas {
+  display: block;
+}
