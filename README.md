@@ -1,7 +1,7 @@
 # marching-squares
 ## Marching Squares in a Perlin noise field in Processing and P5js
 
-![oncodingtrain.png]
+![oncodingtrain.png](oncodingtrain.png)
 
 ## [See it discussed as a communtiy contributioin on coding train morning show](https://youtu.be/6Uy1SifiBig?t=2822)
 
